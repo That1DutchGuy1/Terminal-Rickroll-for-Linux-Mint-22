@@ -34,8 +34,8 @@ rickroll
 
 ---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up</a> made by Rick Astley <br>
-Script made by That1DutchGuy
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up</a> made by Rick Astley. <br>
+Script made by yours oh so sexy truly, That1DutchGuy.
 
 ---
 
