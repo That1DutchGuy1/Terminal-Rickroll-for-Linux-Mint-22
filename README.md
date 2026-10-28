@@ -10,6 +10,8 @@ When you execute
 Your friends are gonna hate you for sure if you somehow convince them to download this crap... <br>
 That is, if you even have any friends 💀
 
+Note that it's for Linux Mint 22 only. Sucks to be you, other distro users! 😜
+
 ---
 
 ### Installation
