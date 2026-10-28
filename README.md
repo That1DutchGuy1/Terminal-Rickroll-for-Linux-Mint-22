@@ -4,7 +4,7 @@
 
 ## What the hell is this shit
 
-Always wanted to get rickrolled in your own terminal with the lyrics being printed out synchronized to the song? 🕺🏻 <br>
+Always wanted to get rickrolled in your own terminal with the lyrics being printed out synchronized to the ```.mp3``` of the song playing in your terminal? 🕺🏻 <br>
 I know you do, and now you can! That's why I made this piece of shit! <br>
 When you execute
 Your friends are gonna hate you for sure if you somehow convince them to download this crap... <br>
