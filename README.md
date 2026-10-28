@@ -4,7 +4,10 @@
 
 Always wanted to get rickrolled in your own terminal with the lyrics being printed out synchronized to the song? 🕺🏻 <br>
 I know you do. That's why I made this piece of shit!
+Your friends are gonna hate you for sure if you somehow convince them to download this crap... <br>
+That is, if you even have any friends 💀
 
+---
 
 ## Installation
 
@@ -12,7 +15,8 @@ I know you do. That's why I made this piece of shit!
 sudo dpkg -i rickroll_1.0.0_all.deb
 ```
 
-## If it complains about missing deps, just run this after:
+## If it whines about missing deps, just run this garbage after:
+
 ```
 sudo apt install -f
 ```
