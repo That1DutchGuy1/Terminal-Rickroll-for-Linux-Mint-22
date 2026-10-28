@@ -39,7 +39,8 @@ Script made by That1DutchGuy
 
 ## Fun recommendation
 
-If you can't get enough of rickroll stuff, then you can also play my free browser platformer game Rick Roller 2D Deluxe Edition! 👀
+If you can't get enough of rickroll stuff, then you can also play my free browser platformer game Rick Roller 2D Deluxe Edition! 👀 <br>
+Click on the gamecard image to go to the game!
 
 <a href="https://that1dutchguy1.github.io/thatonedutchguys-shit-ass-toybox/rick-roll-2d/rick-roll-2d.html">
 <img src="https://raw.githubusercontent.com/That1DutchGuy1/thatonedutchguys-shit-ass-toybox/refs/heads/main/gamecard-images/Gamecard-bg-rickroller2d.png" width="256"/>
